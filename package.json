@@ -1,0 +1,14 @@
+{
+  "name": "entrega_v2.0",
+  "version": "1.0.1",
+  "description": "Entrega 1 modificada para que muestre los resultados por el navegador",
+  "main": "cursos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Guzman",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
